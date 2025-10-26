@@ -155,5 +155,3 @@ If you want to contribute to this project, please follow these steps:
 
 ---
 
-## Project Maintainer
-**Github:** [Swedeshna Mishra](https://github.com/SwedeshnaMishra)
