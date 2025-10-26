@@ -122,8 +122,9 @@ const InterviewPrep = () => {
       } else {
         setError("Something went wrong. Please try again.");
       }
-    } finally
-    setIsUpdateLoader(false);
+    } finally {
+  setIsUpdateLoader(false);
+}
   
   };
 

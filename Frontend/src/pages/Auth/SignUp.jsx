@@ -9,7 +9,7 @@ import { validateEmail } from "../../utils/helper";
 import axiosInstance from "../../utils/axiosInstance";
 import { API_PATHS } from "../../utils/apiPaths";
 import {UserContext} from '../../context/userContext';
-import { uploadImage } from "../../utils/uploadImage";
+import uploadImage from "../../utils/uploadImage";
 
 const Signup = ({ setCurrentPage }) => {
   const [profilePic, setProfilePic] = useState(null);
